@@ -1,0 +1,2 @@
+# Simulador-do-NEMO---Projeto-Integrador-IFRN-2012
+Software obsoleto, mantido apenas para fins históricos. Durante o Projeto Integrador do IFRN (campus Natal, Zona Norte) em 2012, participei como primeiranista de forma inovadora em relação às edições anteriores do PI. Esta simulação simples (que à época foi meio desafiadora) foi nossa incubência. Como o nome sugere, simula o projeto feito pelos terceiranistas daquele ano, em que fizemos usando a tecnologia Flash e linguagem ActonScript 3.0.
